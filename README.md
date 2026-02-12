@@ -1,4 +1,4 @@
-# Suryaansh Suryaansh
+# Suryaansh Rastogi
 
 **Email:** [hr.suryaansh@gmail.com](mailto:hr.suryaansh@gmail.com)   
 **Location:** Noida, India  
