@@ -1,16 +1,89 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ansh852-cmyk/ansh852-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,30:1E293B,70:F59E0B,100:FBBF24&text=Suryaansh%20Rastogi&fontSize=55&fontColor=ffffff&fontAlignY=40"/>
 
-Here are some ideas to get you started:
+# ⚡ Java Backend Developer • Problem Solver
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Building scalable backend systems, intelligent applications, and production-grade software.
+
+<!-- <p>
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-1700+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/DSA-500%2B_Problems-0A66C2?style=for-the-badge"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Academic_Rank-1st-Gold?style=for-the-badge"/></a>
+</p> -->
+
+</div>
+
+---
+
+# 👨‍💻 About me
+
+I am a backend developer passionate about building systems that are scalable, maintainable, and elegant.
+
+My interests span **Backend Engineering**, **Distributed System**, **REST API Design**, **Artificial Intelligence**, and **Software Architecture**. I enjoy transforming complex business requirements into reliable products that deliver real value.
+
+## 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/suryaansh-rastogi-1386a122b/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/Suryaansh_R/)  
+📱 **Phone:** +91 8279634907  
+📧 **Email:** hr.suryaansh@gmail.com  
+
+---
+
+# ⚙️ Technology Arsenal
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,cpp,c,js,sql" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=spring,maven,kafka,docker" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+
+### Database & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea" />
+
+### Exploring
+
+<img src="https://skillicons.dev/icons?i=aws,kubernetes" />
+
+</div>
+
+
+---
+
+# 🧠 Current Focus
+
+```text
+Backend Architecture
+        │
+        ├── System Design
+        ├── Microservices
+        ├── Distributed Systems
+        └── AI-Powered Applications
+```
+
+---
+## 🏆 Achievements
+
+- 🥇 Secured **Rank 1 in Academics** during first year based on overall branch performance.  
+- 💻 Solved **500+ Data Structures and Algorithms problems** across LeetCode, GeeksforGeeks, and CodeChef.  
+- 📈 Achieved **1700+ LeetCode Contest Rating**, placing among the **Top 15% globally**.  
+- 🌍 Secured **Global Rank 2970** in **LeetCode Biweekly Contest 169** among 27,000+ participants.
+---
+
+<div align="center">
+
+### "Build with curiosity. Scale with engineering. Deliver with excellence."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:F59E0B,100:FBBF24"/>
+
+</div>
