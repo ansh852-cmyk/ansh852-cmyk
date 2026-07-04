@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,30:1E293B,70:F59E0B,100:FBBF24&text=Suryaansh%20Rastogi&fontSize=55&fontColor=ffffff&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,30:1E293B,70:F59E0B,100:FBBF24&text=Hi%20I'm%20Suryaansh&fontSize=55&fontColor=ffffff&fontAlignY=40"/>
 
-# ⚡ Java Backend Developer • Problem Solver
+# ⚡ Java Backend Developer • Problem Solver • AI
 
-### Building scalable backend systems, intelligent applications, and production-grade software.
+### Building backend applications, exploring artificial intelligence.
 
 <!-- <p>
 <a href="#"><img src="https://img.shields.io/badge/LeetCode-1700+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
@@ -18,9 +18,9 @@
 
 # 👨‍💻 About me
 
-I am a backend developer passionate about building systems that are scalable, maintainable, and elegant.
+I am a backend developer passionate about building applications using modern practices.
 
-My interests span **Backend Engineering**, **Distributed System**, **REST API Design**, **Artificial Intelligence**, and **Software Architecture**. I enjoy transforming complex business requirements into reliable products that deliver real value.
+I enjoy building web applications using Java and Spring Boot, and I am interested in integrating Artificial Intelligence with modern software solutions. Through academic projects, internships, and continuous learning, I strive to write clean, maintainable code and grow as a software engineer.
 
 ## 🔗 Connect with me
 
@@ -82,7 +82,7 @@ Backend Architecture
 
 <div align="center">
 
-### "Build with curiosity. Scale with engineering. Deliver with excellence."
+### "Learn. Build. Improve. Repeat."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:F59E0B,100:FBBF24"/>
 
